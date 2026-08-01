@@ -180,3 +180,16 @@ footer{
     height:auto;
 }
 
+html{
+    scroll-behavior:smooth;
+}
+
+img{
+    max-width:100%;
+    height:auto;
+    display:block;
+}
+
+body{
+    overflow-x:hidden;
+}
